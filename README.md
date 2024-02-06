@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **vue3 and nuxt.js**
 
-- 💬 Ask me about **vue3 , tailwindcss**
-
 - 📫 How to reach me **azzedinezemmari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
