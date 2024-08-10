@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azzedine</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently working on my **portfolio**
 
 - 📫 How to reach me **azzedinezemmari@gmail.com**
 
