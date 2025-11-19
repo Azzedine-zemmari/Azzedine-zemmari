@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azzedine</h1>
 <h3 align="center">A passionate fullStack developer</h3>
 
-- 🌱 I’m currently working on **Platform Vibe**
-
+- 🌱 I’m currently looking for a junior position as a Java / Angular developer
 - 📫 How to reach me **azzedinezemmari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
