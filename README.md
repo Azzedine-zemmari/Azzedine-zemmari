@@ -19,7 +19,7 @@
 ````
 
 
-<h1>Skills<a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1>Skills <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,vue,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
 
@@ -31,19 +31,4 @@
     </a>
   </h1>
 </div>
-<table align="center">
-  <tr>
-    <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Azzedine-zemmari
-&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="Azzedine-zemmari
-" /></a>
-    </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azzedine-zemmari
-&theme=2077" alt="Azzedine-zemmari
-" /></a>
-    </td>
-  </tr>
-
-
-</table>
+![Azzedine-zemmari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azzedine-zemmari&theme=vue-dark&hide_border=true)
