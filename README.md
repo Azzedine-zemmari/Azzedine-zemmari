@@ -1,6 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/morocco_public/Azzedine-zemmari
-.svg)](https://user-badge.committers.top/morocco_public/Azzedine-zemmari
-)
+[![committers.top badge](https://user-badge.committers.top/morocco_public/Azzedine-zemmari.svg)](https://user-badge.committers.top/morocco_public/Azzedine-zemmari)
 
 
 <h1> 💬 About Me  </h1>
@@ -31,4 +29,5 @@
     </a>
   </h1>
 </div>
+
 ![Azzedine-zemmari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azzedine-zemmari&theme=vue-dark&hide_border=true)
