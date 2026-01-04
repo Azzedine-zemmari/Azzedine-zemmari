@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/morocco_public/Azzedine-zemmari.svg)](https://user-badge.committers.top/morocco_public/Azzedine-zemmari)
 [![CI - Build & Push Docker Images](https://github.com/Azzedine-zemmari/Al-Baraka-Digital/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Azzedine-zemmari/Al-Baraka-Digital/actions/workflows/ci-cd.yml)
 
 
